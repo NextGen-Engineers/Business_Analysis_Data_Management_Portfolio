@@ -1,8 +1,8 @@
-\# Project Charter – Master Data Governance for Manufacturing
+**# Project Charter – Master Data Governance for Manufacturing**
 
 
 
-\## Project Overview
+**## Project Overview**
 
 
 
@@ -10,7 +10,9 @@ This project demonstrates the design and implementation of a Master Data Governa
 
 
 
-\## Business Problem
+
+
+**## Business Problem**
 
 
 
@@ -22,7 +24,9 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\## Project Objectives
+
+
+**## Project Objectives**
 
 
 
@@ -42,11 +46,11 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\## Project Scope
+**## Project Scope**
 
 
 
-\### In Scope
+**### In Scope**
 
 
 
@@ -64,7 +68,9 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\### Out of Scope
+
+
+**### Out of Scope**
 
 
 
@@ -78,7 +84,9 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\## Expected Deliverables
+
+
+**## Expected Deliverables**
 
 
 
@@ -104,7 +112,9 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\## Success Criteria
+
+
+**## Success Criteria**
 
 
 
