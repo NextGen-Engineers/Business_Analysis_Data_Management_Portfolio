@@ -68,7 +68,3 @@ The project demonstrates business analysis, process documentation, data governan
 
 This repository is being developed as part of a professional Business Analysis \& Data Management portfolio to demonstrate practical skills in master data governance, business process analysis, and project management.
 
-
-
-
-
