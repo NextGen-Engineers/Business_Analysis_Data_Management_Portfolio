@@ -1,8 +1,8 @@
-##### **# Business Requirements Document – Master Data Governance**
+\# Business Requirements Document – Master Data Governance
 
-##### 
 
-##### **## Purpos**e
+
+\## Purpose
 
 
 

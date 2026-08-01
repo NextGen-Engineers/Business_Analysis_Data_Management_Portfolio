@@ -1,4 +1,4 @@
-﻿# Business Analysis & Data Management Portfolio
+# Business Analysis \& Data Management Portfolio
 
 
 
@@ -14,7 +14,7 @@ This portfolio demonstrates practical Business Analysis, Data Management, and Pr
 
 
 
-### Project 01 â€“ Master Data Governance for Manufacturing
+### Project 01 - Master Data Governance for Manufacturing
 
 
 
@@ -22,19 +22,13 @@ A complete business analysis project covering:
 
 
 
-- Project Charter
-
-- Business Requirements Document (BRD)
-
-- Process Analysis (AS-IS & TO-BE)
-
-- Data Governance
-
-- Data Quality
-
-- Risk Management
-
-- Project Documentation
+* Project Charter
+* Business Requirements Document (BRD)
+* Process Analysis (AS-IS \& TO-BE)
+* Data Governance
+* Data Quality
+* Risk Management
+* Project Documentation
 
 
 
@@ -44,21 +38,14 @@ A complete business analysis project covering:
 
 
 
-- Business Analysis
-
-- Master Data Governance
-
-- Process Improvement
-
-- Data Quality Management
-
-- Requirements Documentation
-
-- Stakeholder Management
-
-- Project Management
-
-- Manufacturing Data Management
+* Business Analysis
+* Master Data Governance
+* Process Improvement
+* Data Quality Management
+* Requirements Documentation
+* Stakeholder Management
+* Project Management
+* Manufacturing Data Management
 
 
 
@@ -70,6 +57,5 @@ A complete business analysis project covering:
 
 
 
-This repository is being developed as part of a professional Business Analysis & Data Management portfolio to demonstrate practical skills in master data governance, business process analysis, and project management.
-
+This repository is being developed as part of a professional Business Analysis \& Data Management portfolio to demonstrate practical skills in master data governance, business process analysis, and project management.
 

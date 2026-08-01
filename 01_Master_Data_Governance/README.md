@@ -1,4 +1,4 @@
-﻿# Project 01 – Master Data Governance for Manufacturing
+﻿# Project 01 - Master Data Governance for Manufacturing
 
 ## Overview
 
@@ -8,26 +8,27 @@ The project demonstrates business analysis, process documentation, data governan
 
 ## Project Documents
 
-- Project Charter
-- Business Requirements Document (BRD)
-- AS-IS Process
-- TO-BE Process
-- Data Dictionary
-- Data Quality Rules
-- Risk Register
-- Final Report
+* Project Charter
+* Business Requirements Document (BRD)
+* AS-IS Process
+* TO-BE Process
+* Data Dictionary
+* Data Quality Rules
+* Risk Register
+* Final Report
 
 ## Skills Demonstrated
 
-- Business Analysis
-- Master Data Governance
-- Process Improvement
-- Data Quality Management
-- Requirements Documentation
-- Stakeholder Management
-- Project Management
-- Manufacturing Data Management
+* Business Analysis
+* Master Data Governance
+* Process Improvement
+* Data Quality Management
+* Requirements Documentation
+* Stakeholder Management
+* Project Management
+* Manufacturing Data Management
 
 ## Project Status
 
 **Status:** In Progress
+
