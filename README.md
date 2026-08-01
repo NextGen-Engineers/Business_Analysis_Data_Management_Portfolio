@@ -1,4 +1,4 @@
-# Business Analysis \& Data Management Portfolio
+﻿# Business Analysis \& Data Management Portfolio
 
 
 
@@ -58,4 +58,5 @@ A complete business analysis project covering:
 
 
 This repository is being developed as part of a professional Business Analysis \& Data Management portfolio to demonstrate practical skills in master data governance, business process analysis, and project management.
+
 

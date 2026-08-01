@@ -1,4 +1,4 @@
-**# Project Charter – Master Data Governance for Manufacturing**
+﻿**# Project Charter â€“ Master Data Governance for Manufacturing**
 
 
 
@@ -30,17 +30,17 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\* Design a standardized Master Data Governance process.
+* Design a standardized Master Data Governance process.
 
-\* Improve the consistency and quality of manufacturing master data.
+* Improve the consistency and quality of manufacturing master data.
 
-\* Define roles and responsibilities for data creation and approval.
+* Define roles and responsibilities for data creation and approval.
 
-\* Reduce duplicate and incomplete master data records.
+* Reduce duplicate and incomplete master data records.
 
-\* Support efficient business processes across procurement, production, planning, and logistics.
+* Support efficient business processes across procurement, production, planning, and logistics.
 
-\* Establish a foundation for continuous data quality improvement.
+* Establish a foundation for continuous data quality improvement.
 
 
 
@@ -54,17 +54,17 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\* Material Master Data
+* Material Master Data
 
-\* Product Master Data
+* Product Master Data
 
-\* Document Master Data
+* Document Master Data
 
-\* Data Quality Rules
+* Data Quality Rules
 
-\* Master Data Approval Workflow
+* Master Data Approval Workflow
 
-\* Process Documentation
+* Process Documentation
 
 
 
@@ -74,13 +74,13 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\* SAP system configuration
+* SAP system configuration
 
-\* Software development
+* Software development
 
-\* Database implementation
+* Database implementation
 
-\* Production system deployment
+* Production system deployment
 
 
 
@@ -90,25 +90,25 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\* Project Charter
+* Project Charter
 
-\* Business Requirements Document (BRD)
+* Business Requirements Document (BRD)
 
-\* AS-IS Process Map
+* AS-IS Process Map
 
-\* TO-BE Process Map
+* TO-BE Process Map
 
-\* Master Data Standards
+* Master Data Standards
 
-\* Data Dictionary
+* Data Dictionary
 
-\* Data Quality Rules
+* Data Quality Rules
 
-\* Data Governance Workflow
+* Data Governance Workflow
 
-\* Risk Register
+* Risk Register
 
-\* Final Project Report
+* Final Project Report
 
 
 
@@ -118,17 +118,18 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
-\* Standardized master data creation process established.
+* Standardized master data creation process established.
 
-\* Data quality rules documented.
+* Data quality rules documented.
 
-\* Governance roles clearly defined.
+* Governance roles clearly defined.
 
-\* Duplicate and inconsistent records reduced.
+* Duplicate and inconsistent records reduced.
 
-\* Process documentation completed.
+* Process documentation completed.
 
-\* Project documentation suitable for stakeholder review.
+* Project documentation suitable for stakeholder review.
+
 
 
 
