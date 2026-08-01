@@ -1,4 +1,4 @@
-\# Project 01 – Master Data Governance for Manufacturing
+\# Business Analysis \& Data Management Portfolio
 
 
 
@@ -6,15 +6,19 @@
 
 
 
-This project simulates the role of a Business Analysis and Project Management Specialist responsible for improving master data governance within a manufacturing organization.
+This portfolio demonstrates practical Business Analysis, Data Management, and Project Management skills through realistic industrial projects inspired by enterprise manufacturing environments.
 
 
 
-The project demonstrates business analysis, process documentation, data governance, stakeholder collaboration, and continuous improvement practices similar to those used in enterprise ERP environments such as SAP S/4HANA.
+\## Projects
 
 
 
-\## Project Documents
+\### Project 01 – Master Data Governance for Manufacturing
+
+
+
+A complete business analysis project covering:
 
 
 
@@ -22,17 +26,17 @@ The project demonstrates business analysis, process documentation, data governan
 
 \- Business Requirements Document (BRD)
 
-\- AS-IS Process
+\- Process Analysis (AS-IS \& TO-BE)
 
-\- TO-BE Process
+\- Data Governance
 
-\- Data Dictionary
+\- Data Quality
 
-\- Data Quality Rules
+\- Risk Management
 
-\- Risk Register
+\- Project Documentation
 
-\- Final Report
+
 
 
 
