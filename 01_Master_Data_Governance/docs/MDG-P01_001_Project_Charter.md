@@ -1,8 +1,8 @@
-﻿**# Project Charter â€“ Master Data Governance for Manufacturing**
+﻿\# Project Charter - Master Data Governance for Manufacturing
 
 
 
-**## Project Overview**
+\## Project Overview
 
 
 
@@ -10,9 +10,7 @@ This project demonstrates the design and implementation of a Master Data Governa
 
 
 
-
-
-**## Business Problem**
+\## Business Problem
 
 
 
@@ -24,118 +22,99 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 
 
+\## Project Objectives
 
 
-**## Project Objectives**
 
+\- Design a standardized Master Data Governance process.
 
+\- Improve the consistency and quality of manufacturing master data.
 
-* Design a standardized Master Data Governance process.
+\- Define roles and responsibilities for data creation and approval.
 
-* Improve the consistency and quality of manufacturing master data.
+\- Reduce duplicate and incomplete master data records.
 
-* Define roles and responsibilities for data creation and approval.
+\- Support efficient business processes across procurement, production, planning, and logistics.
 
-* Reduce duplicate and incomplete master data records.
+\- Establish a foundation for continuous data quality improvement.
 
-* Support efficient business processes across procurement, production, planning, and logistics.
 
-* Establish a foundation for continuous data quality improvement.
 
+\## Project Scope
 
 
 
+\### In Scope
 
-**## Project Scope**
 
 
+\- Material Master Data
 
-**### In Scope**
+\- Product Master Data
 
+\- Document Master Data
 
+\- Data Quality Rules
 
-* Material Master Data
+\- Master Data Approval Workflow
 
-* Product Master Data
+\- Process Documentation
 
-* Document Master Data
 
-* Data Quality Rules
 
-* Master Data Approval Workflow
+\### Out of Scope
 
-* Process Documentation
 
 
+\- SAP system configuration
 
+\- Software development
 
+\- Database implementation
 
-**### Out of Scope**
+\- Production system deployment
 
 
 
-* SAP system configuration
+\## Expected Deliverables
 
-* Software development
 
-* Database implementation
 
-* Production system deployment
+\- Project Charter
 
+\- Business Requirements Document (BRD)
 
+\- AS-IS Process Map
 
+\- TO-BE Process Map
 
+\- Master Data Standards
 
-**## Expected Deliverables**
+\- Data Dictionary
 
+\- Data Quality Rules
 
+\- Data Governance Workflow
 
-* Project Charter
+\- Risk Register
 
-* Business Requirements Document (BRD)
+\- Final Project Report
 
-* AS-IS Process Map
 
-* TO-BE Process Map
 
-* Master Data Standards
+\## Success Criteria
 
-* Data Dictionary
 
-* Data Quality Rules
 
-* Data Governance Workflow
+\- Standardized master data creation process established.
 
-* Risk Register
+\- Data quality rules documented.
 
-* Final Project Report
+\- Governance roles clearly defined.
 
+\- Duplicate and inconsistent records reduced.
 
+\- Process documentation completed.
 
-
-
-**## Success Criteria**
-
-
-
-* Standardized master data creation process established.
-
-* Data quality rules documented.
-
-* Governance roles clearly defined.
-
-* Duplicate and inconsistent records reduced.
-
-* Process documentation completed.
-
-* Project documentation suitable for stakeholder review.
-
-
-
-
-
-
-
-
-
+\- Project documentation suitable for stakeholder review.
 
