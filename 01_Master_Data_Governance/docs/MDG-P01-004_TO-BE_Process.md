@@ -1,3 +1,17 @@
+| Document Information | |
+|----------------------|------------------------------|
+| **Document ID** | MDG-P01-004 |
+| **Document Title** | TO-BE Process Analysis |
+| **Version** | 1.0 |
+| **Status** | Approved |
+| **Author** | Emeka Chijioke |
+| **Project** | Master Data Governance for Manufacturing |
+| **Last Updated** | August 2026 |
+
+
+---
+
+
 # TO-BE Process Analysis
 
 ## 1. Purpose
@@ -107,3 +121,15 @@ F --> G
 G --> H
 H --> I
 ```
+
+
+## Related Documents
+
+- MDG-P01-001 – Project Charter
+- MDG-P01-002 – Business Requirements
+- MDG-P01-003 – AS-IS Process Analysis
+- MDG-P01-005 – Data Dictionary
+- MDG-P01-006 – Data Quality Rules
+- MDG-P01-007 – RACI Matrix
+- MDG-P01-009 – User Acceptance Testing (UAT) Test Plan
+- MDG-P01-010 – Final Project Report

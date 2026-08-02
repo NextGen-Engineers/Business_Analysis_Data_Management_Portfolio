@@ -25,8 +25,8 @@ A complete business analysis project covering:
 * Project Charter
 * Business Requirements Document (BRD)
 * Process Analysis (AS-IS \& TO-BE)
-* Data Governance
-* Data Quality
+* Data Dictionary
+* Data Quality Rules
 * Risk Management
 * Project Documentation
 
@@ -39,13 +39,40 @@ A complete business analysis project covering:
 
 
 * Business Analysis
+* Business process Analysis
 * Master Data Governance
-* Process Improvement
+* Business Process Improvement
 * Data Quality Management
 * Requirements Documentation
 * Stakeholder Management
 * Project Management
 * Manufacturing Data Management
+* Risk Management
+* User Acceptance Testing (UAT)
+* Stakeholder Management
+* Project Documentation
+* Git & GitHub
+
+---
+
+## Repository Structure
+
+```text
+Business_Analysis_Data_Management_Portfolio
+│
+├── README.md
+├── 01_Master_Data_Governance
+│   ├── README.md
+│   ├── docs
+│   ├── images
+│   └── templates
+│
+├── docs
+├── images
+└── .git
+```
+
+---
 
 
 
@@ -53,7 +80,7 @@ A complete business analysis project covering:
 
 
 
-**Status:**  In Progress
+**Status:** ✅ Complete
 
 
 

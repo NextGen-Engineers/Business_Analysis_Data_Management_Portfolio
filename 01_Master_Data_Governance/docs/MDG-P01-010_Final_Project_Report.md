@@ -1,3 +1,18 @@
+| Document Information | |
+|----------------------|------------------------------|
+| **Document ID** | MDG-P01-010 |
+| **Document Title** | Final Project Report |
+| **Version** | 1.0 |
+| **Status** | Approved |
+| **Author** | Emeka Chijioke |
+| **Project** | Master Data Governance for Manufacturing |
+| **Last Updated** | August 2026 |
+
+
+---
+
+
+
 # Final Project Report
 
 ## 1. Executive Summary

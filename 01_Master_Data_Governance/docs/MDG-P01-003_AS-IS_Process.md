@@ -1,3 +1,16 @@
+| Document Information | |
+|----------------------|------------------------------|
+| **Document ID** | MDG-P01-003 |
+| **Document Title** | AS-IS Process Analysis |
+| **Version** | 1.0 |
+| **Status** | Approved |
+| **Author** | Emeka Chijioke |
+| **Project** | Master Data Governance for Manufacturing |
+| **Last Updated** | August 2026 |
+
+---
+
+
 # AS-IS Process Analysis
 
 ## 1. Purpose
@@ -116,3 +129,13 @@ E -- Yes --> G
 G --> H
 H --> I
 ```
+
+
+
+
+## Related Documents
+
+- MDG-P01-001 – Project Charter
+- MDG-P01-002 – Business Requirements
+- MDG-P01-004 – TO-BE Process Analysis
+- MDG-P01-010 – Final Project Report

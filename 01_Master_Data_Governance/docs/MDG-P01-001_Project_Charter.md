@@ -1,4 +1,22 @@
-﻿# Project Charter - Master Data Governance for Manufacturing
+﻿| Document Information | |
+|----------------------|------------------------------|
+| **Document ID** | MDG-P01-001 |
+| **Document Title** | Project Charter |
+| **Version** | 1.0 |
+| **Status** | Approved |
+| **Author** | Emeka Chijioke |
+| **Project** | Master Data Governance for Manufacturing |
+| **Last Updated** | August 2026 |
+
+
+---
+
+
+
+
+
+
+# Project Charter - Master Data Governance for Manufacturing
 
 
 
@@ -117,3 +135,10 @@ This project addresses these challenges by defining a structured Master Data Gov
 
 - Project documentation suitable for stakeholder review.
 
+
+## Related Documents
+
+- MDG-P01-002 – Business Requirements
+- MDG-P01-003 – AS-IS Process Analysis
+- MDG-P01-004 – TO-BE Process Analysis
+- MDG-P01-010 – Final Project Report

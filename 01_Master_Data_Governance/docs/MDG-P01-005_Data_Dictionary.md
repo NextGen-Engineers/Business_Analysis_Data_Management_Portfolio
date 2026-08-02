@@ -1,3 +1,18 @@
+| Document Information | |
+|----------------------|------------------------------|
+| **Document ID** | MDG-P01-005 |
+| **Document Title** | Data Dictionary |
+| **Version** | 1.0 |
+| **Status** | Approved |
+| **Author** | Emeka Chijioke |
+| **Project** | Master Data Governance for Manufacturing |
+| **Last Updated** | August 2026 |
+
+
+---
+
+
+
 # Data Dictionary
 
 ## 1. Purpose
@@ -52,3 +67,12 @@ The following standards apply to all master data:
 ## 5. Conclusion
 
 A standardized Data Dictionary improves communication between business and IT teams, reduces ambiguity, and ensures consistent master data across the organization. It also supports reporting, regulatory compliance, and enterprise-wide data governance initiatives.
+
+
+## Related Documents
+
+- MDG-P01-002 – Business Requirements
+- MDG-P01-004 – TO-BE Process Analysis
+- MDG-P01-006 – Data Quality Rules
+- MDG-P01-009 – User Acceptance Testing (UAT) Test Plan
+- MDG-P01-010 – Final Project Report

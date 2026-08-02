@@ -1,4 +1,18 @@
-﻿# Business Requirements Document (BRD)
+﻿| Document Information | |
+|----------------------|------------------------------|
+| **Document ID** | MDG-P01-002 |
+| **Document Title** | Business Requirements |
+| **Version** | 1.0 |
+| **Status** | Approved |
+| **Author** | Emeka Chijioke |
+| **Project** | Master Data Governance for Manufacturing |
+| **Last Updated** | August 2026 |
+
+---
+
+
+
+# Business Requirements Document (BRD)
 
 
 
@@ -112,3 +126,11 @@ The system shall require approval before new master data becomes active.
 
 - Data quality metrics are monitored and reported.
 
+
+## Related Documents
+
+- MDG-P01-001 – Project Charter
+- MDG-P01-004 – TO-BE Process Analysis
+- MDG-P01-005 – Data Dictionary
+- MDG-P01-006 – Data Quality Rules
+- MDG-P01-009 – User Acceptance Testing (UAT) Test Plan

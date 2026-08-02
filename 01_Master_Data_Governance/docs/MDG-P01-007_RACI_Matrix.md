@@ -1,3 +1,18 @@
+| Document Information | |
+|----------------------|------------------------------|
+| **Document ID** | MDG-P01-007 |
+| **Document Title** | RACI Matrix |
+| **Version** | 1.0 |
+| **Status** | Approved |
+| **Author** | Emeka Chijioke |
+| **Project** | Master Data Governance for Manufacturing |
+| **Last Updated** | August 2026 |
+
+
+---
+
+
+
 # RACI Matrix
 
 ## 1. Purpose
@@ -63,3 +78,13 @@ The RACI Matrix provides:
 ## 6. Conclusion
 
 The RACI Matrix establishes clear responsibilities for every stage of the master data governance process. By defining ownership and accountability, the organization can improve collaboration, strengthen governance, and support consistent master data quality across all business functions.
+
+
+## Related Documents
+
+- MDG-P01-001 – Project Charter
+- MDG-P01-004 – TO-BE Process Analysis
+- MDG-P01-006 – Data Quality Rules
+- MDG-P01-008 – Risk Register
+- MDG-P01-009 – User Acceptance Testing (UAT) Test Plan
+- MDG-P01-010 – Final Project Report

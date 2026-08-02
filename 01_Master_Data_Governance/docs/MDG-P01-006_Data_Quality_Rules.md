@@ -1,3 +1,19 @@
+| Document Information | |
+|----------------------|------------------------------|
+| **Document ID** | MDG-P01-006 |
+| **Document Title** | Data Quality Rules |
+| **Version** | 1.0 |
+| **Status** | Approved |
+| **Author** | Emeka Chijioke |
+| **Project** | Master Data Governance for Manufacturing |
+| **Last Updated** | August 2026 |
+
+
+---
+
+
+
+
 # Data Quality Rules
 
 ## 1. Purpose
@@ -76,3 +92,13 @@ Data quality shall be monitored using the following Key Performance Indicators (
 ## 7. Conclusion
 
 Applying standardized data quality rules ensures that master data remains accurate, complete, and consistent throughout its lifecycle. These controls support efficient business operations, regulatory compliance, and reliable reporting while reducing the risk of errors within SAP S/4HANA.
+
+
+## Related Documents
+
+- MDG-P01-002 – Business Requirements
+- MDG-P01-004 – TO-BE Process Analysis
+- MDG-P01-005 – Data Dictionary
+- MDG-P01-008 – Risk Register
+- MDG-P01-009 – User Acceptance Testing (UAT) Test Plan
+- MDG-P01-010 – Final Project Report
