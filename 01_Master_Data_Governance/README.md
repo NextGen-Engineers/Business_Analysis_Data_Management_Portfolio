@@ -83,16 +83,26 @@ I --> J
 
 ## Repository Structure
 
+
 ```text
-01_Master_Data_Governance
+Business_Analysis_Data_Management_Portfolio
 │
 ├── README.md
-├── docs
-├── images
-└── templates
+├── 01_Master_Data_Governance
+│   ├── README.md
+│   └── docs
+│       ├── MDG-P01-001_Project_Charter.md
+│       ├── MDG-P01-002_Business_Requirements.md
+│       ├── MDG-P01-003_AS-IS_Process.md
+│       ├── MDG-P01-004_TO-BE_Process.md
+│       ├── MDG-P01-005_Data_Dictionary.md
+│       ├── MDG-P01-006_Data_Quality_Rules.md
+│       ├── MDG-P01-007_RACI_Matrix.md
+│       ├── MDG-P01-008_Risk_Register.md
+│       ├── MDG-P01-009_UAT_Test_Plan.md
+│       └── MDG-P01-010_Final_Project_Report.md
 ```
 
----
 
 ## Technologies and Standards
 

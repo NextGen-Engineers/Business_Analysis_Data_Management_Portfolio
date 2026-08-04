@@ -1,4 +1,4 @@
-﻿# Business Analysis \& Data Management Portfolio
+﻿# Business Analysis & Data Management Portfolio for Manufacturing & Engineering
 
 
 
@@ -57,19 +57,14 @@ A complete business analysis project covering:
 
 ## Repository Structure
 
+
 ```text
 Business_Analysis_Data_Management_Portfolio
 │
 ├── README.md
-├── 01_Master_Data_Governance
-│   ├── README.md
-│   ├── docs
-│   ├── images
-│   └── templates
-│
-├── docs
-├── images
-└── .git
+└── 01_Master_Data_Governance
+    ├── README.md
+    └── docs
 ```
 
 ---
