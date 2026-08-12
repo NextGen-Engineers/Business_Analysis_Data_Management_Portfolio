@@ -4,7 +4,7 @@
 
 This project demonstrates the role of a Business Analyst and Project Management Specialist in designing a Master Data Governance framework for a manufacturing organization operating within an SAP S/4HANA environment.
 
-The project follows a structured business analysis approach, beginning with project initiation and business requirements gathering, progressing through process analysis and governance design, and concluding with risk management, user acceptance testing, and project closure.
+The project follows a structured business analysis approach, beginning with project initiation and business requirements gathering, progressing through AS-IS/TO-BE process analysis and governance design, and concluding with data quality management, risk management, user acceptance testing, and project closure.
 
 ---
 
@@ -42,7 +42,6 @@ The project follows a structured business analysis approach, beginning with proj
 - Business Process Analysis
 - Business Process Improvement
 - Master Data Governance
-- SAP S/4HANA Concepts
 - Requirements Engineering
 - Data Quality Management
 - Risk Management
@@ -79,38 +78,12 @@ H --> I
 I --> J
 ```
 
----
-
-## Repository Structure
-
-
-```text
-Business_Analysis_Data_Management_Portfolio
-│
-├── README.md
-├── 01_Master_Data_Governance
-│   ├── README.md
-│   └── docs
-│       ├── MDG-P01-001_Project_Charter.md
-│       ├── MDG-P01-002_Business_Requirements.md
-│       ├── MDG-P01-003_AS-IS_Process.md
-│       ├── MDG-P01-004_TO-BE_Process.md
-│       ├── MDG-P01-005_Data_Dictionary.md
-│       ├── MDG-P01-006_Data_Quality_Rules.md
-│       ├── MDG-P01-007_RACI_Matrix.md
-│       ├── MDG-P01-008_Risk_Register.md
-│       ├── MDG-P01-009_UAT_Test_Plan.md
-│       └── MDG-P01-010_Final_Project_Report.md
-```
-
-
 ## Technologies and Standards
 
 - Markdown
 - Git
 - GitHub
 - Mermaid Diagrams
-- SAP S/4HANA (Conceptual)
 - Master Data Governance (MDG)
 
 ---
